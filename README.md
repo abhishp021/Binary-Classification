@@ -1,4 +1,4 @@
-# Binary Classification Assignment.
+# Binary Classification Assignment
 * Checked for null values and need for data transformation and data manipulation.
 * No Null values found.
 * All of the data was numeric.
